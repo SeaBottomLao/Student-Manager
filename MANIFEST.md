@@ -1,4 +1,6 @@
--Debug
+# MANIFEST
+
+* -Debug
 |       Project15.exe
 |       Project15.ilk
 |       Project15.pdb
